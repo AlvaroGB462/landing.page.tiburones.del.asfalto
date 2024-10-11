@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="Landing.page.tiburones.del.asfalto">
+        <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/source"/>
+        <property name="context-root" value="Landing.page.tiburones.del.asfalto"/>
+        <property name="java-output-path" value="/Landing.page.tiburones.del.asfalto/build/classes"/>
+    </wb-module>
+</project-modules>
